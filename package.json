@@ -1,0 +1,28 @@
+{
+  "name": "chatbot_frenk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeticiaReichardt/ChatBot_frenk.git"
+  },
+  "author": "Leticia Piaz Reichardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeticiaReichardt/ChatBot_frenk/issues"
+  },
+  "homepage": "https://github.com/LeticiaReichardt/ChatBot_frenk#readme",
+  "dependencies": {
+    "@telegraf/core": "^1.1.0",
+    "@telegraf/session": "^1.0.1",
+    "axios": "0.17.1",
+    "moment": "^2.29.1",
+    "node-schedule": "^1.3.0",
+    "nodemon": "^2.0.15",
+    "telegraf": "3.17.3"
+  }
+}
